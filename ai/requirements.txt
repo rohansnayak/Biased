@@ -1,2 +1,9 @@
-transformers
-spacy 
+transformers>=4.30.0
+torch>=2.0.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+spacy>=3.5.0
+datasets>=2.0.0
+accelerate>=0.20.0 
